@@ -1,6 +1,6 @@
 <?php
 //	phpinfo();
-print("a");
+print("as");
 if(isset($a)){
 	
 }
